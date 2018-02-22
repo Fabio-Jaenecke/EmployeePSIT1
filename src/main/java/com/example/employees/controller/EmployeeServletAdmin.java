@@ -1,4 +1,4 @@
-/* Copyright 2015 Oracle and/or its affiliates. All rights reserved. test*/
+/* Copyright 2015 Oracle and/or its affiliates. All rights reserved. */
 package com.example.employees.controller;
 
 import java.io.IOException;
